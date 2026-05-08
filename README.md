@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hey, I'm Kevin Contri 👋
+# Hey there! I'm Kevin Contri 👋
 
 ### Backend Engineer in Training · Python · FastAPI · PostgreSQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-contri)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevincontri)
+![Profile Views](https://komarev.com/ghpvc/?username=kevincontri&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -126,12 +127,12 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevincontri&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincontri&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" />
+[![kevincontri's repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkevincontri&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=58a6ff&logo=github)](https://github.com/kevincontri?tab=repositories)
+[![kevincontri's followers](https://img.shields.io/github/followers/kevincontri?label=Followers&style=flat-square&color=58a6ff&logo=github)](https://github.com/kevincontri?tab=followers)
 
 </div>
 
@@ -139,10 +140,10 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 
 ## Currently
 
-- 🎓 Finishing my **ADS degree** and building my portfolio
-- 🔍 Looking for my **first backend internship**
-- 📚 Deepening knowledge in **DSA**, **System Design**, and **ML fundamentals**
-- 🐍 Always writing more Python
+- Finishing my **ADS degree** and building my portfolio
+- Looking for my **first backend internship**
+- Deepening knowledge in **DSA**, **System Design**, and **ML fundamentals**
+- Improving my front-end skills
 
 ---
 
