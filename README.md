@@ -8,6 +8,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevincontri)
 ![Profile Views](https://komarev.com/ghpvc/?username=kevincontri&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
+![Kevins's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevincontri&theme=dark&hide_border=true)
+<br> <br>
+![Kevins's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevincontri&theme=dark)
 </div>
 
 ---
@@ -124,17 +127,6 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 > A shopping list web app built with vanilla HTML, CSS, and JavaScript.
 
 `HTML` `CSS` `JavaScript`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-[![kevincontri's repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkevincontri&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=58a6ff&logo=github)](https://github.com/kevincontri?tab=repositories)
-[![kevincontri's followers](https://img.shields.io/github/followers/kevincontri?label=Followers&style=flat-square&color=58a6ff&logo=github)](https://github.com/kevincontri?tab=followers)
-
-</div>
 
 ---
 
