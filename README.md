@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kevincontri&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 ![Kevins's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevincontri&theme=dark&hide_border=true)
-<br> 
+
 </div>
 
 ---
