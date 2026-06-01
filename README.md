@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevincontri)
 ![Profile Views](https://komarev.com/ghpvc/?username=kevincontri&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
-![Kevins's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevincontri&theme=dark&hide_border=true)
+![Kevin's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevincontri&theme=dark&hide_border=true)
 
 </div>
 
@@ -48,6 +48,7 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Auth & Security**
 
@@ -62,6 +63,21 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 ---
 
 ## Featured Projects
+
+### 🗂️ [TaskFlow](https://github.com/kevincontri/taskflow) · [Live Demo ↗](https://task-flow-1-vuz1.onrender.com/login)
+
+> A full-stack Kanban project management app with a FastAPI backend and React frontend — deployed on Render.
+
+- **Kanban board** with drag-and-drop task reordering across To Do / In Progress / Done columns via `@dnd-kit`
+- **Redis caching layer** with async integration (`redis.asyncio`), custom `RedisRepository`, and `fakeredis` for isolated pytest fixtures
+- JWT auth, Project CRUD, per-task notes and priority levels (low / medium / high), deadline tracking
+- Language toggle (EN/PT) with browser locale auto-detection and localStorage persistence
+- Responsive design via CSS media queries; animated hint buttons for empty states
+- Full test coverage: auth, projects, tasks, and comments with async pytest fixtures
+
+`Python` `FastAPI` `SQLAlchemy (async)` `PostgreSQL` `Redis` `React 19` `React Router v7` `@dnd-kit` `Docker`
+
+---
 
 ### 🤖 [AI Knowledge Base API](https://github.com/kevincontri/AI-Knowledge-Base-API)
 
@@ -119,14 +135,6 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 > A financial transactions backend service built with FastAPI.
 
 `Python` `FastAPI`
-
----
-
-### 🛒 [QuickList](https://github.com/kevincontri/quicklist)
-
-> A shopping list web app built with vanilla HTML, CSS, and JavaScript.
-
-`HTML` `CSS` `JavaScript`
 
 ---
 
