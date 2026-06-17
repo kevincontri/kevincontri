@@ -64,7 +64,7 @@ I'm also exploring **AI integration** in backend systems — semantic search, lo
 
 ## Featured Projects
 
-### 🗂️ [TaskFlow](https://github.com/kevincontri/taskflow) · [Live Demo ↗](https://task-flow-1-vuz1.onrender.com/login)
+### 🗂️ [TaskFlow](https://github.com/kevincontri/task-flow) · [Live Demo ↗](https://task-flow-1-vuz1.onrender.com/login)
 
 > A full-stack Kanban project management app with a FastAPI backend and React frontend — deployed on Render.
 
